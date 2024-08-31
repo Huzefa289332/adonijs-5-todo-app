@@ -68,6 +68,7 @@
     "@adonisjs/session": "^6.4.0",
     "@adonisjs/shield": "^7.1.1",
     "@adonisjs/view": "^6.2.0",
+    "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3",
     "luxon": "^3.5.0",
     "pg": "^8.12.0",
